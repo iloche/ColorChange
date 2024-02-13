@@ -1,0 +1,12 @@
+body{
+    transition: .3s all ease-in-out;
+}
+.wrapper{
+    max-width: 800px;
+    margin: 0 auto;
+}
+.color-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
